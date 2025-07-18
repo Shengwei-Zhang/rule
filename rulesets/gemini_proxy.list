@@ -1,1 +1,12 @@
-
+# Gemini
+# 这些规则会将匹配到的流量通过 "♊️ Gemini 节点" 群组进行代理
+- DOMAIN-SUFFIX,gemini.google.com
+- DOMAIN-SUFFIX,ai.google
+- DOMAIN-SUFFIX,bard.google.com
+- DOMAIN-SUFFIX,makersuite.google.com
+- DOMAIN-SUFFIX,generativelanguage.googleapis.com
+- DOMAIN-SUFFIX,gemini.google.com
+- DOMAIN-SUFFIX,ai.google
+- DOMAIN-SUFFIX,bard.google.com
+- DOMAIN-SUFFIX,makersuite.google.com
+- DOMAIN-SUFFIX,generativelanguage.googleapis.com
