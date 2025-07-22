@@ -1,9 +1,16 @@
 # 直连列表
 
+ # 确保cn域名直连的规则可以保留，但新加的精确规则会优先匹配
+- DOMAIN-SUFFIX,cn,🎯 全球直连 
+- DOMAIN-SUFFIX,xn--fiqs8s,🎯 全球直连
+- DOMAIN-SUFFIX,xn--55qx5d,🎯 全球直连
+- DOMAIN-SUFFIX,xn--io0a7i,🎯 全球直连
+
 # shanghaitech
 DOMAIN-SUFFIX,egate-new.shanghaitech.edu.cn
 DOMAIN-SUFFIX,mail.shanghaitech.edu.cn
 DOMAIN-SUFFIX,shanghaitech.edu.cn
+DOMAIN-SUFFIX,oa.shanghaitech.edu.cn
 
 
 # MyList
